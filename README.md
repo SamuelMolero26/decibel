@@ -1,6 +1,6 @@
 # Decibel Meter
 
-Fun project that started as funny/silly way for my roomate and I to finally determine who can whistle the loudess. 
-The idea came from Him and I just on the overall excution (AKA on coding it)
+A fun and purely for entertainment purposes project that started as a funny/silly way for my roommate and me to finally determine who could whistle the loudest. 
+The idea came from Him and I just on the overall execution (AKA on coding it)
 
-Hope you can enjoy it and potentially prove who has the loudest whistle among your peers :)
+I hope you can enjoy it and potentially prove who has the loudest whistle among your peers :)
